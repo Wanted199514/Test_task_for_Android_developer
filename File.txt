@@ -1,0 +1,7 @@
+
+
+Thread Number 1
+prime number generated: 105
+
+Thread Number 2
+prime number generated: 875
